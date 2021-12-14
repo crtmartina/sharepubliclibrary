@@ -1,2 +1,0 @@
-# sharepubliclibrary
-test share library

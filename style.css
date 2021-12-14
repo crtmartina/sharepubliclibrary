@@ -1,1 +1,5 @@
 .table-wrapper.vertical-align-center.border-style-rows {  background: red !important;}
+
+.page-title * {
+    color: #005980;
+}
